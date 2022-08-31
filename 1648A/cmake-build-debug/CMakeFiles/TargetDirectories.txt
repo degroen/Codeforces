@@ -1,0 +1,3 @@
+/home/potato/Рабочий стол/Codeforces/1648A/cmake-build-debug/CMakeFiles/1648A.dir
+/home/potato/Рабочий стол/Codeforces/1648A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/potato/Рабочий стол/Codeforces/1648A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
